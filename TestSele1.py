@@ -5,7 +5,7 @@ import time
 
 driver = webdriver.Chrome()
 
-driver.get ("https://qaweb2.cps.golf/BWDWebstore/")
+driver.get ("INSERT WEB URL HERE")
 
 print(driver.title)
 
